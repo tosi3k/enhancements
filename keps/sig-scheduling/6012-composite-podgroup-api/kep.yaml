@@ -22,9 +22,9 @@ see-also:
   - "/keps/sig-scheduling/5729-resourceclaim-support-for-workloads"
   - "/keps/sig-scheduling/5732-topology-aware-workload-scheduling"
 
-stage: alpha
+stage: beta
 
-latest-milestone: "v1.37"
+latest-milestone: "v1.38"
 
 milestone:
   alpha: "v1.37"
